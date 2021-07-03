@@ -17,31 +17,31 @@ header {
 
 main{
     /* largura da página */
-    width:75%;
+    width:70%;
     /* altura da página*/
     height:auto;
     /* posição que a página ocupará na tela = centralizado*/
     margin-top: 10px;
     /* left: posição de esquerda*/
-    margin-left: 10px;
+    margin-left: 8px;
     /* bottom : posição de baixo */
-    padding-left: 20px;
+    padding-left: 15px;
     margin-bottom: 10px;
     /* right : posição de direita */
-    margin-right:10px;
-    padding-right: 20px;
+    margin-right:8px;
+    padding-right: 15px;
     float:left;
     /* cor de fundo da página */
     background-color:rgb(44, 89, 97);
 }
 
 aside{
-    width:20%;
+    width:25%;
   /* altura da div */
     height:auto;
     margin-top: 10px;
     /* bottom : posição de baixo */
-    padding-left: 25px;
+    padding-left: 10px;
     margin-bottom: 10px;
     /* right : posição de direita */
     margin-right:5px;
